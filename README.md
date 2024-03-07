@@ -3,8 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moonwalker231102&label=Profile%20views&color=0e75b6&style=flat" alt="moonwalker231102" /> </p>
 
-- 🔭 I’m currently working on [Vinyls-Trade-Backend](https://vinyls-trade-back-production.up.railway.app/)
-
+- 🔭 I’m currently working on my [Portfolio]
+  
 - 🌱 I’m currently learning **Typescript | MongoDB**
 
 - 💬 Ask me about **Node,Express,Sequelize,PostgreSQL,SQL**

@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ejimenezcadena@gmail.com**
 
-- ⚡ Fun fact **It was supposed to be a pharmaceutical chemist. Here I am, happy as a dev :)).**
+- ⚡ Fun fact **I was supposed to be a pharmaceutical chemist. Here I am, happy as a dev :)).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
